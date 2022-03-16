@@ -1,0 +1,15 @@
+F:\2022C#\wxworktest\wxworktest\bin\Debug\wxworktest.exe.config
+F:\2022C#\wxworktest\wxworktest\bin\Debug\wxworktest.exe
+F:\2022C#\wxworktest\wxworktest\bin\Debug\wxworktest.pdb
+F:\2022C#\wxworktest\wxworktest\obj\Debug\wxworktest.csproj.AssemblyReference.cache
+F:\2022C#\wxworktest\wxworktest\obj\Debug\wxworktest.Form1.resources
+F:\2022C#\wxworktest\wxworktest\obj\Debug\wxworktest.Properties.Resources.resources
+F:\2022C#\wxworktest\wxworktest\obj\Debug\wxworktest.csproj.GenerateResource.cache
+F:\2022C#\wxworktest\wxworktest\obj\Debug\wxworktest.csproj.CoreCompileInputs.cache
+F:\2022C#\wxworktest\wxworktest\obj\Debug\wxworktest.exe
+F:\2022C#\wxworktest\wxworktest\obj\Debug\wxworktest.pdb
+F:\2022C#\wxworktest\wxworktest\bin\Debug\Newtonsoft.Json.dll
+F:\2022C#\wxworktest\wxworktest\obj\Debug\wxworktest.csproj.CopyComplete
+F:\2022C#\wxworktest\wxworktest\bin\Debug\pbclass.dll
+F:\2022C#\wxworktest\wxworktest\bin\Debug\protobuf-net.dll
+F:\2022C#\wxworktest\wxworktest\bin\Debug\pbclass.pdb
